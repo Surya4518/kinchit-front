@@ -1,0 +1,1 @@
+[01-Apr-2024 06:51:54 UTC] PHP Fatal error:  Cannot redeclare App\Http\Kernel::$middleware in /home/kinchitk/public_html/kinchit-front/app/Http/Kernel.php on line 73
